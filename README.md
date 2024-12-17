@@ -1,2 +1,0 @@
-# biodata.ghamar
-Web
